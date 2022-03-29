@@ -1,0 +1,11 @@
+flask
+pyautogui
+#pywin32
+Pillow
+pyscreenshot
+opencv-python
+imageai
+keras
+tensorflow
+pyppeteer
+asyncio
