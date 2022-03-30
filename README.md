@@ -13,6 +13,8 @@ This space contains datasets, algorithms and apps created by the Algovera commun
 
 Token-gated datasets. For more information on the benefits of token-gated datasets, check out our blog [post](https://docs.algovera.ai/blog/2022/01/04/Using%20the%20Ocean%20Marketplace%20with%20HuggingFace%20Apps,%20Algorithms%20and%20Datasets). 
 
+- [CryptoPunks](datasets/CryptoPunks)
+
 # 🤖 Algorithms
 
 Token-gated algorithms. Automically published to [Ocean Marketplace](https://market.oceanprotocol.com/) and [HuggingFace](https://huggingface.co/). Ready for use with Ocean compute-to-data (C2D). For more information on the benefits of token-gated algorithms, check out our blog [post](https://docs.algovera.ai/blog/2022/01/04/Using%20the%20Ocean%20Marketplace%20with%20HuggingFace%20Apps,%20Algorithms%20and%20Datasets). 
