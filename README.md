@@ -11,17 +11,29 @@ This space contains datasets, algorithms and apps created by the Algovera commun
 
 # 🗄 Datasets
 
-Token-gated datasets. For more information on the benefits of token-gated datasets, check out our blog [post](https://docs.algovera.ai/blog/2022/01/04/Using%20the%20Ocean%20Marketplace%20with%20HuggingFace%20Apps,%20Algorithms%20and%20Datasets). 
+These are datasets published to the [Ocean Marketplace](https://market.oceanprotocol.com/) and [HuggingFace](https://huggingface.co).
 
 - [CryptoPunks](datasets/CryptoPunks)
 
 # 🤖 Algorithms
 
-Token-gated algorithms. Automically published to [Ocean Marketplace](https://market.oceanprotocol.com/) and [HuggingFace](https://huggingface.co/). Ready for use with Ocean compute-to-data (C2D). For more information on the benefits of token-gated algorithms, check out our blog [post](https://docs.algovera.ai/blog/2022/01/04/Using%20the%20Ocean%20Marketplace%20with%20HuggingFace%20Apps,%20Algorithms%20and%20Datasets). 
+These are algorithms published to the [Ocean Marketplace](https://market.oceanprotocol.com/) and ready for use with Ocean compute-to-data (C2D). 
+
+- [DeFi Borrowing Cost Prediction](algorithms/defi-borrowing-cost-prediction)
+- [EEG Classification for BCI](algorithms/eeg-classification)
+- [DCGAN for Generative Art](algorithms/generative-art)
+- [Medical Image Classification](algorithms/medical-image-classification)
+- [Virtual Object Detector](algorithms/virtual-object-detector)
 
 # 🏗 Apps
 
-Token-gated apps. [Gradio](https://gradio.app/). [Streamlit](https://streamlit.io/). For more information on the benefits of token-gated apps, check out our blog [post](https://docs.algovera.ai/blog/2022/01/04/Using%20the%20Ocean%20Marketplace%20with%20HuggingFace%20Apps,%20Algorithms%20and%20Datasets). 
+These are app demos created using [Gradio](https://gradio.app/) and [Streamlit](https://streamlit.io/). You can see them working on our HuggingFace Spaces [profile](https://huggingface.co/AlgoveraAI).
+
+- [DCGAN Demo for Generating CryptoPunks](apps/dcgan-crypto-punks)
+- [Ocean Marketplace](apps/ocean-marketplace)
+- [Web3 Wallet](apps/web3-wallet)
+
+For more information on the benefits of token-gated datasets, algorithms and apps, check out our blog [post](https://docs.algovera.ai/blog/2022/01/04/Using%20the%20Ocean%20Marketplace%20with%20HuggingFace%20Apps,%20Algorithms%20and%20Datasets). 
 
 # 👪 Community
 
